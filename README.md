@@ -1,4 +1,4 @@
-## Test Coverage Mind Map
+## Test Coverage Mind Map 
 
 ### 1. User Interface
 - Homepage Layout
